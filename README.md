@@ -1,2 +1,2 @@
 # turkiyesehirleri
-BTK AKADEMI Erzurum frontend egitimi ilk gun reposu
+## BTK Akademi **FRONTEND** WEB DEVELOPMENT DAY1
